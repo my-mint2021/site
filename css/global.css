@@ -249,7 +249,7 @@ body {
   display: inline-block;
   width: 16px;
   height: 11px;
-  background: url("../../img/metro.svg") 0 0 no-repeat;
+  background: url("../img/metro.svg") 0 0 no-repeat;
   vertical-align: top;
   margin-right: 10px;
 }
@@ -335,7 +335,7 @@ body {
   position: absolute;
   width: 20px;
   height: 20px;
-  background: url(../../img/Shape.svg) center no-repeat;
+  background: url(../img/Shape.svg) center no-repeat;
   top: 0;
   right: 0;
 }
@@ -495,7 +495,7 @@ body {
   transform: translate(-50%, -50%);
   width: 18px;
   height: 18px;
-  background: url("../../img/check.svg") center no-repeat;
+  background: url("../img/check.svg") center no-repeat;
 }
 
 .widget__btn-show-hidden {
